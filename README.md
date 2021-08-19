@@ -1,4 +1,4 @@
-- Olá, meu nome é Luan e estou graduando S.I na UNINASSAU
+- Olá, meu nome é Luan e estou graduando S.I na UNINASSAU (4° período)
 - Estudando atualmente desenvolvimento em front e back-end (fullstack)
 e praticando utilização de O.S via VirtualBox
 - Sem experiência no mercado de T.I atualmente
