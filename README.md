@@ -5,6 +5,6 @@ e praticando utilização de O.S via VirtualBox
 - Sou bem determinado, me dê uma ideia que eu corro atrás para decifrar
 e entregar o meu melhor!
 - -----------------------
-- Em resumo é isso, com o tempo irei atualizando conforme eu for aprendendo mais sobre a área.
+- Em resumo é isso, com o tempo irei atualizando conforme eu for me desenvolvendo mais na área. 
 - -----------------------
 [Currículo (1).pdf](https://github.com/Lu4S4les/Lu4S4les/files/7011263/Curriculo.1.pdf)
