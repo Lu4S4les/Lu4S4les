@@ -7,9 +7,9 @@ e entregar o meu melhor!
 - -----------------------
 - Em resumo é isso, com o tempo irei atualizando conforme eu for me desenvolvendo mais na área. 
 - -----------------------
-Hi, my name is Luan and i'm graduating I.S at UNINASSAU (4th period)
-Currently studying front and back-end programming (fullstack) and practicing the use of operating systems via VirtualBox.
-No experience currently in the I.T market
-I'm very determined, give me an idea that i run after to decipher and deliver my best!
+- Hi, my name is Luan and i'm graduating I.S at UNINASSAU (4th period)
+- Currently studying front and back-end programming (fullstack) and practicing the use of operating systems via VirtualBox.
+- No experience currently in the I.T market
+- I'm very determined, give me an idea that i run after to decipher and deliver my best!
 - ---------------------
 [Currículo (1).pdf](https://github.com/Lu4S4les/Lu4S4les/files/7011263/Curriculo.1.pdf)
